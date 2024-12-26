@@ -1,0 +1,21 @@
+# Указываем C++ файлы
+*.cpp text diff=cpp
+*.h text diff=cpp
+
+# Указываем C# файлы
+*.cs text diff=csharp
+
+# Указываем C файлы
+*.c text diff=c
+
+# Указываем SQL файлы
+*.sql text diff=sql
+
+# Указываем JavaScript файлы
+*.js text diff=javascript
+
+# Указываем HTML файлы
+*.html text diff=html
+
+# Указываем CSS файлы
+*.css text diff=css
