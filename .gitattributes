@@ -1,7 +1,1 @@
 *.cpp text diff=cpp
-*.cs text diff=csharp
-*.c text diff=c
-*.sql text diff=sql
-*.js text diff=javascript
-*.html text diff=html
-*.css text diff=css
